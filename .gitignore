@@ -1,0 +1,9 @@
+target/
+*.swp
+*.tmp
+.env
+.env.*
+*.key
+*.pem
+*.qcow2
+*.iso
