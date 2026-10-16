@@ -1,14 +1,11 @@
 # Brand guidelines
-Name: Haven OS. Tagline: Secure by design. Friendly by default. Built for developers.
 
-| Role | Color |
-|---|---|
-| Deep ink | #101D2C |
-| Haven teal | #0F766E |
-| Light teal | #5EEAD4 |
-| Warm amber | #F4B860 |
-| Paper | #F8FAFC |
+Name: **Haven OS**. Primary presentation: shield containing a house/H and window, blue-to-cyan/teal gradients, dark wordmark. Tagline: **A safer place to build.**
 
-Use system sans-serif; clear hierarchy, generous spacing and calm language. Prefer the symbol for app icons and horizontal logo for headers. Maintain clear space of one quarter of symbol width and at least 24 px symbol height. Use light assets on dark backgrounds. Do not stretch, add effects, obscure the opening, or suggest a security certification.
+Use the supplied [shield/H board](../identity/haven-shield-h-board.png) as the reference. The [harbor board](../identity/haven-harbor-board.png) is a retained alternative, not a mix-and-match component source.
 
-Logo text remains editable, not outlined. Test readability at actual target size. Final trademark/name search and official asset approval remain open.
+Preserve proportions, gradient, typography and tagline. Do not stretch, redraw, recolor or imply a security certification. Select a background with enough contrast for the dark wordmark.
+
+Boards contain multiple variations; they are not ready-made isolated app icons. Clean individual exports and vector masters remain future production work. Exact color specifications, fonts, clear-space and minimum-size rules require source artwork review; do not treat the former SVG palette as authoritative.
+
+Artwork terms are in [branding/README.md](../README.md). Name/trademark clearance remains open.

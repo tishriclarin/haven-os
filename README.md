@@ -1,6 +1,6 @@
-<p align="center"><img src="branding/logo/haven-logo-primary.svg" width="460" alt="Haven OS"></p>
+<p align="center"><img src="branding/identity/haven-shield-h-board.png" width="720" alt="Haven OS"></p>
 
-**Secure by design. Friendly by default. Built for developers.**
+**A safer place to build.**
 
 Haven OS is an open-source, privacy-first Debian-derived operating system project. It aims to provide a trustworthy place to think, work, and build through explicit user authority, application isolation, and visible security controls.
 
@@ -29,7 +29,7 @@ Privacy supports concentration and creative work. Users should be able to inspec
 | Adversaries and limits | [THREAT-MODEL.md](THREAT-MODEL.md) |
 | Authority and permissions | [TRUST-MODEL.md](TRUST-MODEL.md), [PERMISSION-MODEL.md](PERMISSION-MODEL.md) |
 | Human and AI contributions | [CONTRIBUTING.md](CONTRIBUTING.md), [AGENTS.md](AGENTS.md) |
-| Working identity | [branding/README.md](branding/README.md) |
+| Project identity | [branding/README.md](branding/README.md) |
 
 ## Planned components
 Haven Guard (securityd), Portal, Vault, Apps sandbox, Security Center, and VM compartment manager. See each component directory for scope and open questions.
@@ -41,4 +41,4 @@ A sandboxed editor cannot list host home folders or open a trusted chooser by it
 Everyone may view, fork, and propose pull requests. Only the owner and explicitly authorized collaborators with write permission may push or merge to this repository. Being listed as a contributor does not itself confer write access. See [GOVERNANCE.md](GOVERNANCE.md).
 
 ## Licensing
-Original repository code and documentation are provided under [MIT](LICENSE). Upstream components retain their own licenses; this repository does not relicense Debian. Working visual assets use MIT, but permission to use artwork does not grant endorsement or exclusive rights in the Haven OS name. Name clearance and final brand approval remain open.
+Original repository code and documentation are provided under [MIT](LICENSE). Upstream components retain their own licenses; this repository does not relicense Debian. Supplied branding artwork has separate terms in [branding/README.md](branding/README.md). Name clearance remains open; no trademark registration is claimed.
